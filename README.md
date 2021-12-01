@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m a PhD student at the University of Cambridge. I work on deep learning applied to structural biology and drug discovery.
-- I'm currently a Resident at [X - The Moonshot Factory](https://www.x.company)
+- I'm currently interning at [MILA](https://mila.quebec/en/) with Prof Jian Tang
+- Previously, I was an AI Resident at [X - The Moonshot Factory (formerly Google X)](https://www.x.company) and an ML Consultant at [Relation Therapeutics](relationrx.com).
 - 🌱 I’m currently developing [Graphein](https://www.github.com/a-r-j/graphein), a data processing library for geometric deep learning in biology.
   - Graphein supports construction and featurisation of:
     - Protein Structure Graphs

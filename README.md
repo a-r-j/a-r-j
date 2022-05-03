@@ -4,10 +4,13 @@
 - Previously, I was a visiting researcher at [EPFL](https://www.epfl.ch/labs/lpdi/) and [MILA](https://mila.quebec/en/), AI Resident at [X - The Moonshot Factory (formerly Google X)](https://www.x.company) and an ML Consultant at [Relation Therapeutics](relationrx.com).
 - 🌱 I’m currently developing [Graphein](https://www.github.com/a-r-j/graphein), a data processing library for geometric deep learning in biology.
   - Graphein supports construction and featurisation of:
-    - Protein Structure Graphs
-    - Protein Meshes
-    - Protein-Protein Interaction Graphs 
-    - RNA Secondary Structure Graphs
+    - Protein structure graphs
+    - Protein meshes
+    - Small molecule graphs
+    - RNA structure graphs
+    - Protein-protein interaction graphs 
+    - Gene regulatory interaction graphs
+
 
 
 - 📫 How to reach me: 

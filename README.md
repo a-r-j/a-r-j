@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a PhD student at the University of Cambridge. I work on deep learning applied to structural biology and drug discovery.
+- I'm currently doing things with proteins at [Genentech](https://www.gene.com) / [Roche](https://www.roche.com) / [Prescient Design](https://www.prescient.design/)
 - Previously, I was a visiting researcher at [EPFL](https://www.epfl.ch/labs/lpdi/) and [MILA](https://mila.quebec/en/), AI Resident at [X - The Moonshot Factory (formerly Google X)](https://www.x.company) and an ML Consultant at [Relation Therapeutics](relationrx.com).
 - 🌱 I’m currently developing [Graphein](https://www.github.com/a-r-j/graphein), a data processing library for geometric deep learning in biology.
   - Graphein supports construction and featurisation of:
